@@ -1,0 +1,26 @@
+/********************************/
+/*          STYLES              */
+/********************************/
+* {
+    scroll-behavior: smooth;
+  }
+  
+
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: lighter;
+}
+
+
+
+
+#spacerPLUS{
+    height: 400%;
+    background-color:  rgb(187, 204, 223)  !important;
+}
